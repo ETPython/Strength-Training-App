@@ -1,0 +1,7 @@
+[
+  {"title":"ベンチプレス","sets":4,"reps":"8-10","rest":"90s","type":"strength","muscle":"chest"},
+  {"title":"スクワット","sets":4,"reps":"6-8","rest":"120s","type":"strength","muscle":"legs"},
+  {"title":"デッドリフト","sets":3,"reps":"5","rest":"150s","type":"strength","muscle":"back"},
+  {"title":"プランク","sets":3,"reps":"60s","rest":"60s","type":"endurance","muscle":"core"},
+  {"title":"ランジ","sets":3,"reps":"10-12","rest":"60s","type":"hypertrophy","muscle":"legs"}
+]
